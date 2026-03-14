@@ -3,12 +3,13 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Igor Pereira Apolinário
+- Matricula: 912034
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![igor](images/printtelainspecao.png)
 
 
 ## Orientações sobre Linguagem MarkDown
